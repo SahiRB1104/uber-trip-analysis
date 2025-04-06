@@ -1,1 +1,6 @@
 # uber-trip-analysis
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
